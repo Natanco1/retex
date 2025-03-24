@@ -1,0 +1,6 @@
+[submodule "fraunhofer_backend"]
+	path = fraunhofer_backend
+	url = https://github.com/Natanco1/fraunhofer_backend.git
+[submodule "fraunhofer_front"]
+	path = fraunhofer_front
+	url = https://github.com/Natanco1/fraunhofer_front.git
