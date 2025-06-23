@@ -2,7 +2,7 @@ version: "3.8"
 services:
   frontend:
     build:
-      context: ./fraunhofer_front
+      context: ./retex_front
     ports:
       - "5000:5000"
     depends_on:
@@ -12,7 +12,7 @@ services:
 
   backend:
     build:
-      context: ./fraunhofer_backend
+      context: ./retex_backend
     ports:
       - "8000:8000"
     environment:
