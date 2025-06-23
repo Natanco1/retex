@@ -1,6 +1,6 @@
-[submodule "fraunhofer_backend"]
-	path = fraunhofer_backend
-	url = https://github.com/Natanco1/fraunhofer_backend.git
-[submodule "fraunhofer_front"]
-	path = fraunhofer_front
-	url = https://github.com/Natanco1/fraunhofer_front.git
+[submodule "retex_backend"]
+	path = retex_backend
+	url = https://github.com/Natanco1/retex_backend.git
+[submodule "retex_front"]
+	path = retex_front
+	url = https://github.com/Natanco1/retex_front.git
